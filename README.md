@@ -60,7 +60,7 @@ The Customer portal allows buyers to sign in, explore live vehicle stock, apply 
 
 | Sign in | Showroom floor and vehicle catalogue |
 | --- | --- |
-| ![Customer login](docs/screenshots/customer-login.png) | ![Customer inventory](docs/screenshots/customer-inventory.png) |
+| ![Customer login](docs/screenshots/admin-inventory-search.png) | ![Customer inventory](docs/screenshots/customer-inventory.png) |
 
 ---
 
