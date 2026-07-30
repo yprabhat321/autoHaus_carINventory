@@ -20,7 +20,7 @@ Use the following account to review the administrator workflow in the demo envir
 | ------- | --- |
 | **Frontend (Live)** | [https://frontend-ten-theta-83.vercel.app](https://frontend-ten-theta-83.vercel.app) |
 | **Backend API (Live)** | [https://backend-alpha-three-88.vercel.app/api/health](https://backend-alpha-three-88.vercel.app/api/health) |
-| **GitHub Repo** | [https://github.com/yprabhat321/autoHaus_carHouse](https://github.com/yprabhat321/autoHaus_carHouse) |
+| **GitHub Repo** | [https://github.com/yprabhat321/autoHaus_carHouse](https://github.com/yprabhat321/autoHaus_carINventory) |
 
 ---
 
