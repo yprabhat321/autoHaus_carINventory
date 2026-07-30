@@ -1,0 +1,608 @@
+[
+  {
+    "vehicleId": "6a68a1d1ea6f3f3ce7a7a85c",
+    "vehicle": "audi a88",
+    "localPath": "/images/vehicle-catalog/6a68a1d1ea6f3f3ce7a7a85c.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a699738412568332be958b1",
+    "vehicle": "Tata Tiago",
+    "localPath": "/images/vehicle-catalog/6a699738412568332be958b1.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af40",
+    "vehicle": "Tata Tigor",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af40.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af54",
+    "vehicle": "Mahindra KUV100 NXT",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af54.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af57",
+    "vehicle": "Hyundai i20 N Line",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af57.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af56",
+    "vehicle": "Hyundai i20",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af56.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af55",
+    "vehicle": "Hyundai Grand i10 Nios",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af55.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af53",
+    "vehicle": "Mahindra Marazzo",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af53.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af52",
+    "vehicle": "Mahindra XUV400",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af52.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af51",
+    "vehicle": "Mahindra Thar Roxx",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af51.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af50",
+    "vehicle": "Mahindra Thar",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af50.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af4f",
+    "vehicle": "Mahindra Bolero Neo",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af4f.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af4e",
+    "vehicle": "Mahindra Bolero",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af4e.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af4d",
+    "vehicle": "Mahindra Scorpio N",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af4d.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af4b",
+    "vehicle": "Mahindra XUV 3XO",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af4b.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af41",
+    "vehicle": "Tata Altroz",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af41.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af42",
+    "vehicle": "Tata Punch",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af42.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af43",
+    "vehicle": "Tata Nexon",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af43.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af44",
+    "vehicle": "Tata Harrier",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af44.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af4c",
+    "vehicle": "Mahindra XUV700",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af4c.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af45",
+    "vehicle": "Tata Safari",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af45.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af46",
+    "vehicle": "Tata Curvv",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af46.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af47",
+    "vehicle": "Tata Tiago EV",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af47.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af48",
+    "vehicle": "Tata Tigor EV",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af48.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af49",
+    "vehicle": "Tata Punch EV",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af49.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af4a",
+    "vehicle": "Tata Nexon EV",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af4a.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af8c",
+    "vehicle": "MG Windsor EV",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af8c.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af8b",
+    "vehicle": "MG Gloster",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af8b.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af8a",
+    "vehicle": "MG ZS EV",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af8a.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af89",
+    "vehicle": "MG Hector Plus",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af89.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af88",
+    "vehicle": "MG Hector",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af88.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af8d",
+    "vehicle": "MG M9",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af8d.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af87",
+    "vehicle": "MG Astor",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af87.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af86",
+    "vehicle": "MG Comet EV",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af86.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af85",
+    "vehicle": "Honda City e:HEV",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af85.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af84",
+    "vehicle": "Honda Elevate",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af84.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af83",
+    "vehicle": "Honda City",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af83.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af82",
+    "vehicle": "Honda Amaze",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af82.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af81",
+    "vehicle": "Toyota Vellfire",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af81.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af80",
+    "vehicle": "Toyota Camry",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af80.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af7f",
+    "vehicle": "Toyota Hilux",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af7f.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af7e",
+    "vehicle": "Toyota Fortuner",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af7e.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af70",
+    "vehicle": "Maruti Suzuki Fronx",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af70.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af7d",
+    "vehicle": "Toyota Innova Hycross",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af7d.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af97",
+    "vehicle": "Volkswagen Taigun",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af97.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af9f",
+    "vehicle": "Renault Triber",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af9f.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af9e",
+    "vehicle": "Renault Kwid",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af9e.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af9d",
+    "vehicle": "Nissan X-Trail",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af9d.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af9c",
+    "vehicle": "Nissan Kicks",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af9c.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af9b",
+    "vehicle": "Nissan Magnite",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af9b.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af9a",
+    "vehicle": "Volkswagen Vento",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af9a.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af99",
+    "vehicle": "Volkswagen Tiguan R-Line",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af99.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af98",
+    "vehicle": "Volkswagen Tiguan",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af98.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af8e",
+    "vehicle": "MG Cyberster",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af8e.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af96",
+    "vehicle": "Volkswagen Virtus",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af96.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af95",
+    "vehicle": "Skoda Enyaq",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af95.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af94",
+    "vehicle": "Skoda Kylaq",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af94.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af93",
+    "vehicle": "Skoda Octavia",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af93.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af92",
+    "vehicle": "Skoda Superb",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af92.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af91",
+    "vehicle": "Skoda Kodiaq",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af91.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af90",
+    "vehicle": "Skoda Kushaq",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af90.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af8f",
+    "vehicle": "Skoda Slavia",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af8f.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af60",
+    "vehicle": "Hyundai Kona Electric",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af60.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af68",
+    "vehicle": "Kia Seltos X-Line",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af68.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af67",
+    "vehicle": "Kia Syros",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af67.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af66",
+    "vehicle": "Kia EV9",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af66.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af65",
+    "vehicle": "Kia EV6",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af65.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af64",
+    "vehicle": "Kia Carnival",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af64.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af63",
+    "vehicle": "Kia Carens",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af63.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af62",
+    "vehicle": "Kia Seltos",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af62.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af61",
+    "vehicle": "Kia Sonet",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af61.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af7b",
+    "vehicle": "Toyota Rumion",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af7b.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af5f",
+    "vehicle": "Hyundai Ioniq 5",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af5f.jpg",
+    "basePhoto": "/images/vehicles/ev.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af5e",
+    "vehicle": "Hyundai Tucson",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af5e.jpg",
+    "basePhoto": "/images/vehicles/luxury.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af5d",
+    "vehicle": "Hyundai Alcazar",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af5d.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af5c",
+    "vehicle": "Hyundai Creta",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af5c.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af5b",
+    "vehicle": "Hyundai Venue",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af5b.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af5a",
+    "vehicle": "Hyundai Exter",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af5a.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af59",
+    "vehicle": "Hyundai Verna",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af59.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af58",
+    "vehicle": "Hyundai Aura",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af58.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af6a",
+    "vehicle": "Maruti Suzuki S-Presso",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af6a.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af7c",
+    "vehicle": "Toyota Innova Crysta",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af7c.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af7a",
+    "vehicle": "Toyota Urban Cruiser Hyryder",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af7a.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af79",
+    "vehicle": "Toyota Taisor",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af79.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af78",
+    "vehicle": "Toyota Glanza",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af78.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af77",
+    "vehicle": "Maruti Suzuki Invicto",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af77.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af76",
+    "vehicle": "Maruti Suzuki Ciaz",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af76.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af75",
+    "vehicle": "Maruti Suzuki Jimny",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af75.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af74",
+    "vehicle": "Maruti Suzuki XL6",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af74.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af73",
+    "vehicle": "Maruti Suzuki Ertiga",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af73.jpg",
+    "basePhoto": "/images/vehicles/muv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af72",
+    "vehicle": "Maruti Suzuki Brezza",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af72.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af71",
+    "vehicle": "Maruti Suzuki Ignis",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af71.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af6f",
+    "vehicle": "Maruti Suzuki Baleno",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af6f.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af6e",
+    "vehicle": "Maruti Suzuki Dzire",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af6e.jpg",
+    "basePhoto": "/images/vehicles/sedan.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af6d",
+    "vehicle": "Maruti Suzuki Swift",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af6d.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af6c",
+    "vehicle": "Maruti Suzuki WagonR",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af6c.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af6b",
+    "vehicle": "Maruti Suzuki Celerio",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af6b.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6af69",
+    "vehicle": "Maruti Suzuki Alto K10",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6af69.jpg",
+    "basePhoto": "/images/vehicles/hatchback.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6afa0",
+    "vehicle": "Renault Kiger",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6afa0.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6afa1",
+    "vehicle": "Renault Duster",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6afa1.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  },
+  {
+    "vehicleId": "6a69976f6e8885d5dec6afa2",
+    "vehicle": "Renault Captur",
+    "localPath": "/images/vehicle-catalog/6a69976f6e8885d5dec6afa2.jpg",
+    "basePhoto": "/images/vehicles/suv.jpg"
+  }
+]
