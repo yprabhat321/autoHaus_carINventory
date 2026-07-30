@@ -119,8 +119,8 @@ npm test
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yprabhat321/autoHaus_carHouse.git
-cd autoHaus_carHouse
+git clone (https://github.com/yprabhat321/autoHaus_carINventory)
+cd autoHaus_carINventory
 ```
 
 ### 2. Backend Setup
