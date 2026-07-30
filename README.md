@@ -50,7 +50,7 @@ The Admin portal provides complete dealership oversight, inventory operations, s
 
 | Inventory and sales summary | Category, brand, value, and purchase analytics |
 | --- | --- |
-| ![Admin dashboard overview](docs/screenshots/admin-dashboard-overview.png) | ![Admin dashboard analytics](docs/screenshots/admin-dashboard-analytics.png) |
+| ![Admin dashboard overview](docs/screenshots/admin-inventory-search.png) | ![Admin dashboard analytics](docs/screenshots/admin-dashboard-analytics.png) |
 
 ---
 
