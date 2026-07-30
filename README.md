@@ -114,44 +114,80 @@ npm test
 ## 💻 Local Setup & Installation
 
 ### Prerequisites
-- Node.js (v18+)
-- MongoDB Atlas or local MongoDB instance
 
-### 1. Clone Repository
+- **Node.js v18+** — [download here](https://nodejs.org/)
+- **MongoDB Atlas** account or a local MongoDB instance
+
+> ⚠️ **Run each command below one at a time and press Enter after each one.**
+> If you paste multiple lines together into Windows `cmd.exe`, they can merge into a single invalid command (e.g. `cd backend npm install`). Use **PowerShell** or **Windows Terminal** if you want to paste multi-line blocks safely.
+
+### Step 1 — Clone the repository
+
 ```bash
 git clone https://github.com/yprabhat321/autoHaus_carINventory
+```
+
+```bash
 cd autoHaus_carINventory
 ```
 
-### 2. Backend Setup
+### Step 2 — Start the backend
+
 ```bash
 cd backend
+```
+
+```bash
 npm install
 ```
 
-> ✅ **The `.env` file is pre-configured** — no manual setup needed. Just install and run.
+The `.env` file is committed with working defaults, so no manual configuration is required to get started.
 
-Run backend server:
 ```bash
 npm run dev
 ```
 
-### 3. Frontend Setup
+✅ **Success looks like this:**
+
+**Keep this terminal window open** — closing it stops the backend.
+
+### Step 3 — Start the frontend (in a *new* terminal window)
+
 ```bash
-cd ../frontend
+cd autoHaus_carINventory/frontend
+```
+
+```bash
 npm install
 ```
 
-> ✅ **The `.env` file is pre-configured** — no manual setup needed. Just install and run.
-
-Run frontend server:
 ```bash
 npm run dev
 ```
 
-Open **[http://localhost:5173](http://localhost:5173)** in your browser.
+✅ **Success looks like this:**
+
+### Step 4 — Open the app
+
+Go to **[http://localhost:5173](http://localhost:5173)** and log in with the demo admin credentials above.
+
+> ℹ️ **Note:** `frontend/.env` points `VITE_API_BASE_URL` at the **live deployed backend**, not your local one. If you want the frontend talking to your local backend instead, edit `frontend/.env` to:
+> ```
+> VITE_API_BASE_URL=http://localhost:5000/api
+> ```
+> then restart `npm run dev` in the frontend terminal.
 
 ---
+
+## 🩺 Troubleshooting
+
+| Problem | Cause | Fix |
+| --- | --- | --- |
+| `The system cannot find the path specified` | Multi-line paste merged commands together in `cmd.exe` | Run one command at a time, or use PowerShell/Windows Terminal |
+| `fatal: destination path already exists` | You already cloned the repo | Skip `git clone`, just `cd` into the existing folder |
+| `Could not connect to any servers in your MongoDB Atlas cluster` | Your network/IP isn't allowed to reach the shared Atlas cluster | Try a different network, or use your own MongoDB Atlas connection string / local MongoDB instance in `backend/.env` |
+| Frontend loads but data looks the same as the live demo | Frontend is pointed at the deployed backend by default | See the note in Step 4 to point it at `localhost:5000` instead |
+
 
 ## 🤖 My AI Usage
 
