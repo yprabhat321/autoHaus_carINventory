@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-paper text-ink font-body antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display;
+  }
+
+  ::selection {
+    @apply bg-ember/20;
+  }
+
+  *:focus-visible {
+    outline: 2px solid #9A2B1F;
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .eyebrow {
+    @apply text-xs font-display uppercase tracking-widest2 text-steel-600;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 bg-ember hover:bg-ember-600 text-white
+           font-display uppercase tracking-wide text-sm px-6 py-3 transition-colors duration-200
+           disabled:bg-steel-300 disabled:cursor-not-allowed disabled:text-steel-600;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 bg-transparent border border-ink
+           hover:bg-ink hover:text-white text-ink font-display uppercase tracking-wide text-sm
+           px-6 py-3 transition-colors duration-200;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 text-steel-600 hover:text-ink
+           font-display uppercase tracking-wide text-xs px-3 py-2 transition-colors duration-200;
+  }
+
+  .input-field {
+    @apply w-full bg-transparent border-b border-steel-400 focus:border-ink py-2 px-1
+           text-ink placeholder:text-steel-400 outline-none transition-colors duration-200;
+  }
+
+  .card {
+    @apply bg-white border border-steel-300/60;
+  }
+}
